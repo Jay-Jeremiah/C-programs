@@ -1,0 +1,13 @@
+Literals refer to all fixed values that we can use in our program. These include:
+
+Integer literals
+Numbers without decimal e.g 0,25,-7. Can be negative.
+
+Floating literals
+Numbers with decimals both positive and negative e.g 3.5,-3.5
+
+Characters
+Any single value enclosed within '' marks e.g 's', '5'
+
+Srings
+any text enclosed within double quotation marks.
