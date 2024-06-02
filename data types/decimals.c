@@ -5,9 +5,9 @@ int main(){
 
     printf("%f\n",decimal);  //prints 6 digits after decimal point.
 
-    printf("%.1f",decimal);  //prints 1 digit after decimal point
+    printf("%.1f\n",decimal);  //prints 1 digit after decimal point
 
-    printf("%.2f",decimal);  //prints 2 digits after decimal point
+    printf("%.2f\n",decimal);  //prints 2 digits after decimal point
 
     return 0;
 }
