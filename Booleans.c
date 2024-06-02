@@ -10,6 +10,10 @@ int main(){
 
     printf("%d\n",isCodingBad);   //returns 0 when statement is false
 
+    int x = 10;
+    int y = 9;
+    printf("%d\n",x > y);
+    
     return 0;
 
 }
