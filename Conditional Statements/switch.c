@@ -1,4 +1,7 @@
 //switch - selects one of the code to be executed
+// break - it steps out of a switch block
+
+
 
 #include <stdio.h>
 
