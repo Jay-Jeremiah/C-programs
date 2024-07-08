@@ -6,12 +6,12 @@ followed by square brackets*/
 
 int main(){
     int numbers[] = {25,50, 75, 100};
-    printf("%d",numbers[0]);
+    printf("%d\n",numbers[0]);
 
     //change array element
-    printf("%d",numbers[1]);      //prints the second number of the list
+    printf("%d\n",numbers[1]);      //prints the second number of the list
 
     numbers[1] = 67;
-    printf("%d",numbers[1]);
+    printf("%d\n",numbers[1]);
     return 0;
 }
