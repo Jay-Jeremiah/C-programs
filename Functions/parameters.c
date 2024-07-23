@@ -2,7 +2,7 @@
 
 // written in the parenthesis of the function name separated by a comma 
 
-void myName(char name[]){
+void myName(char name[]){                    //name is the parameter
     printf("Hello %s\n",name);
 }
 
