@@ -1,26 +1,18 @@
 #include <stdio.h>
 
-void rectangle_perimeter(double length,double width){
+void rectangle_cals(double length,double width){
 
     double perimeter = 2*(length+width);
 
-    printf("The perimeter of the rectangle is %.2f",perimeter);
+    printf("The perimeter of the rectangle is %.2f\n",perimeter);
    
-}
-
-void rectangle_area(double length,double width){
-
     double area = (length*width);
 
-    printf("The area of the rectangle is %.2f",area);
-   
+    printf("The area of the rectangle is %.2f\n",area);
 }
 
 
 int main(){
-    rectangle_perimeter(2.7,3.6);
-    printf("\n");
-    rectangle_area(2.7,3.6);
-    printf("\n");
+    rectangle_cals(3.8,1.9);
     return 0;
 }
